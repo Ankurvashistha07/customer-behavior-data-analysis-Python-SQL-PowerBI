@@ -118,7 +118,7 @@ This project demonstrates a complete end-to-end data analytics workflow — from
 ## How to Run the Project
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone (https://github.com/Ankurvashistha07/customer-behavior-data-analysis-Python-SQL-PowerBI)
 cd data-analytics-project
 
 2️⃣ Install Requirements
