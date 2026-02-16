@@ -32,8 +32,6 @@ This project demonstrates a complete end-to-end data analytics workflow — from
 • Programming & Analysis
 • Python
 • Pandas
-• NumPy
-• Matplotlib / Seaborn
 • Database Systems
 • PostgreSQL
 • MySQL
@@ -122,24 +120,17 @@ git clone (https://github.com/Ankurvashistha07/customer-behavior-data-analysis-P
 cd data-analytics-project
 
 2️⃣ Install Requirements
-pip install -r requirements.txt
 
 3️⃣ Run Python Analysis
-python analysis.py
 
 4️⃣ Run SQL Scripts
-
 Open PostgreSQL / MySQL / SQL Server
 
-Import dataset
+5️⃣ Import dataset
 
 Execute queries from /sql/queries.sql
 
-5️⃣ Open Power BI Dashboard
-
-Open .pbix file in Power BI Desktop
-
-Refresh data connection if needed
+6️⃣ Open Power BI Dashboard
 
 ## Project Structure
 data-analytics-project/
